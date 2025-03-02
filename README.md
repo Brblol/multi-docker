@@ -190,7 +190,7 @@ Set access_key_id to $AWS_ACCESS_KEY
 
 Set secret_access_key to $AWS_SECRET_KEY
 
-Setting Environment Variables
+## Setting Environment Variables
 
 Go to AWS Management Console and use Find Services to search for Elastic Beanstalk
 
